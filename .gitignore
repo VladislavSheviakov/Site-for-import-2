@@ -1,6 +1,6 @@
 tmp/
-*_old
-*_backup
+Site for import/*_old
+Site for import/*_backup
 thumbs.db
 .DS_Store
 NeuroStartUp.png_backup
